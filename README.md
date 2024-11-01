@@ -5,3 +5,4 @@
 <p> Bab 2 ~> Bermain Dengan Function </p>
 <p> Bab 3 ~> Bukan Sembarang Data </p>
 <p> Bab 4 ~> Sang Pengatur Program </p>
+<p> Bab 5 ~> Modularisasi Harmonis </p>
